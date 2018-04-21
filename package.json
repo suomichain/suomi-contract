@@ -1,0 +1,21 @@
+{
+  "name": "suomi-crowdsale-contracts",
+  "version": "0.1.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:suomichain/suomi-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^3.4.5"
+  }
+}
